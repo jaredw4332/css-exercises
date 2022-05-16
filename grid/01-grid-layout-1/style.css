@@ -28,10 +28,6 @@ body, html {
   grid-row: 2 / 4;
 }
 
-.article {
-  grid-column: 2;
-}
-
 .container div {
   padding: 15px;
   font-size: 32px;
